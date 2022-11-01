@@ -2,6 +2,6 @@
 
 Projeto de Introdução a Ciência de Dados
 
-Participante:
+*Participante:*
 
-Francelino Teotonio Júnior
+- Francelino Teotonio Júnior
