@@ -4,7 +4,7 @@
 
 - Ana Paula Cardoso de Castro Kendall
 - Francelino Teotonio Júnior
-- Vivianny Khatly Medeiros Pereira
+- Vivianny Khatly Medeiros Pereira (a mais linda
 
 ## Datasets utilizados:
 
