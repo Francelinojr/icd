@@ -2,7 +2,7 @@
 
 Projeto de Introdução a Ciência de Dados
 
-##*Participante:*
+#*Participante:*
 
 - Ana Paula Cardoso de Castro Kendall
 - Francelino Teotonio Júnior
